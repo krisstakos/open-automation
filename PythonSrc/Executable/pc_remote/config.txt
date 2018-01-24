@@ -1,0 +1,12 @@
+{
+  
+"settings": {
+
+	"port": "657",
+    
+	"mouse_sens_x": "9"
+,
+	"mouse_sens_y": "9"  
+	}
+
+}
